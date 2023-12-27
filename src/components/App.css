@@ -1,0 +1,10 @@
+.container {
+  width: 80vh;
+  height: 100%;
+  margin: 10vh auto;
+  border: 2px solid #FF9540;
+  padding: 30px;
+  border-radius: 30px;
+  background-color: #ffebc5;
+}
+
